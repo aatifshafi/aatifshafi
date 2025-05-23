@@ -1,16 +1,25 @@
-## Hi there 👋
+🧠 **Web Developer | CMS Expert | AI-Inspired Coder**  
 
-<!--
-**aatifshafi/aatifshafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Atif Shafi** — a web engineer fluent in **PHP**, **WordPress**, and **Drupal**,  
+with a growing curiosity for AI's role in automating and scaling digital solutions.
 
-Here are some ideas to get you started:
+🔨 From freelance gigs to remote teams, I’ve:
+- Developed 10+ WordPress plugins  
+- Customized 20+ WordPress & Drupal websites  
+- Delivered complete systems: Inventory, ID apps, and financial tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Toolbox & Tech Stack**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/>
+</p>
+
+🚀 Exploring AI integrations into web platforms — one plugin at a time.
+
+> 🎯 **Mission**: Build smart, fast, and scalable tools for the modern web.
